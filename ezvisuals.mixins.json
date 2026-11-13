@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.ezvisuals",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EzVisuals$OverlayMixin",
+    "EzVisuals$RendererMixin",
+    "EzVisuals$ParticleMixin",
+    "EzVisuals$NetworkMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
